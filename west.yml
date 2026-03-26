@@ -7,9 +7,9 @@ manifest:
 
   remotes:
     - name: ncs
-     #  url-base: https://github.com/nrfconnect
+       url-base: https://github.com/nrfconnect
      # 改为 SSH
-      url: git@github.com:nrfconnect/sdk-nrf.git
+     #  url: git@github.com:nrfconnect/sdk-nrf.git
   projects:
     - name: nrf
       remote: ncs
